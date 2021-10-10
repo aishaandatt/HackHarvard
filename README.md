@@ -41,3 +41,6 @@ python manage.py runserver
 ## Running the app
 
 > http://127.0.0.1:8000/ on your browser
+
+## Figma File
+> https://www.figma.com/file/P6oFzY3Tcz2bylGxAYsA3h/Hack_Harvard?node-id=2%3A7
