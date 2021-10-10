@@ -16,27 +16,27 @@
 
 # Setup
 
-'''bash
+```bash
 Clone the Repository
-'''
+```
 
 ### Change to locus directory
 
-'''bash
+```bash
 cd locus
-'''
+```
 
 ### Installing Reuirements
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Running the server
 
-'''bash
+```bash
 python manage.py runserver
-'''
+```
 
 ## Running the app
 
