@@ -1,3 +1,8 @@
+![Black Check](https://github.com/aishaandatt/HackHarvard/actions/workflows/black-check.yml/badge.svg)
+
+This is a repository that uses Black formatting.
+
+
 # LOCUS
 
 ### Motivation of our project
