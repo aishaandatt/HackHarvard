@@ -1,4 +1,4 @@
-![Black Check](https://github.com/aishaandatt/HackHarvard/actions/workflows/black-check.yml/badge.svg)
+[![Black Code Formatter Check](https://github.com/aishaandatt/HackHarvard/actions/workflows/main.yml/badge.svg)](https://github.com/aishaandatt/HackHarvard/actions/workflows/main.yml)
 
 This is a repository that uses Black formatting.
 
